@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <car>
+        <id>1</id>
+        <brand>Toyota</brand>
+        <model>Corolla</model>
+        <year>2020</year>
+    </car>
+    <car>
+        <id>2</id>
+        <brand>Ford</brand>
+        <model>Mustang</model>
+        <year>2019</year>
+    </car>
+    <car>
+        <id>3</id>
+        <brand>Chevrolet</brand>
+        <model>Malibu</model>
+        <year>2018</year>
+    </car>
+    <car>
+        <id>4</id>
+        <brand>Honda</brand>
+        <model>Accord</model>
+        <year>2021</year>
+    </car>
+    <car>
+        <id>5</id>
+        <brand>BMW</brand>
+        <model>3 Series</model>
+        <year>2017</year>
+    </car>
+</cars>
